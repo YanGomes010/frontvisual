@@ -1,0 +1,34 @@
+.div{
+    margin: 10px 0px 10px 0;
+    position: relative;
+    width: 100%;
+    box-sizing: border-box;
+   
+}
+.div label{
+    color: #676767;
+    font-size: 13px;
+   
+}
+.div label input{
+    border: none;
+    display: block;
+    border: 1px solid #FA641E;
+    border-radius: 15px;
+    padding: 1.1em;
+    width: 95%;
+    margin: 0 auto;
+    outline: 0;
+    font-size: 14px;
+    box-sizing: content-box;
+}
+input[type="submit"]{
+        color: #FFFFFF;
+        padding: .9em;
+        font-size: 16px;
+        font-weight: bold;
+      font-family: "Poppins", sans-serif;
+        background: rgb(255,136,31);
+        background: linear-gradient(262deg, rgba(255,136,31,1) 0%, rgba(250,100,30,1) 100%);
+    
+}

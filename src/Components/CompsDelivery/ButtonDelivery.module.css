@@ -1,0 +1,35 @@
+.btn{
+    width: 90%;
+    padding: 0.1em;
+    margin: 0 auto;
+    border-radius: 15px;
+    display: flex;
+    justify-content:flex-start;
+    background: rgb(250,100,30);
+background: linear-gradient(261deg, rgba(250,100,30,1) 0%, rgba(255,136,31,1) 100%);
+}
+.btn .boxIMG{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 65px;
+}
+.btn .boxTexts{
+    display: flex;
+    flex-direction: column;
+    font-family: "Poppins", sans-serif;
+}
+.btn .boxTexts span{
+    margin: 0;
+}
+.btn .boxTexts span:nth-child(1){
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 500;
+    font-display: swap;
+}
+.btn .boxTexts span:nth-child(2){
+    color: #FFFFFF;
+    font-size: 12px;
+}

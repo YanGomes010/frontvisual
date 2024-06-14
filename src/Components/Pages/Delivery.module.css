@@ -1,0 +1,16 @@
+.containerAllDelivery{
+    width: 334px;
+   height: 100%;
+    margin: 0 auto;
+}
+
+.accept{
+    background: rgb(255, 136, 31);
+    background: linear-gradient(261deg, rgba(250,100,30,1) 0%, rgba(255,136,31,1) 100%);
+    color:#fff;
+}
+
+.close{
+    color: #E8453E;
+    border: 1px solid #E8453E;
+}

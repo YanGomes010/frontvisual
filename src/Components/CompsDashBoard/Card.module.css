@@ -1,0 +1,18 @@
+.card{
+    width: 90%;
+    margin: 30px auto;
+    background-color: #fff;
+    box-shadow: 3px 3px 6px #00000029;
+    border-radius: 10px;
+    font-family: "Poppins", sans-serif;
+    padding: 5px;
+}
+.card h4{
+    margin-left: 7px;
+}
+.card .boxCard{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}

@@ -1,0 +1,22 @@
+.containerBoxA{
+  width: 100%;
+}.boxA {
+  width: 100%;
+ margin: 15px 0 15px 0;
+}
+.boxA a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  text-decoration: none;
+  padding: 0.7em 1em;
+  width: 100%;
+  margin: 10px auto;
+  border-radius: 15px;
+}
+.boxA a span{
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}

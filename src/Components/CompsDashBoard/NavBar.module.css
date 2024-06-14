@@ -1,0 +1,18 @@
+.navBar{
+    width: 100%;
+    padding: 0.7em;
+}
+.navBar header{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+}
+.navBar header img{
+    width: 30px;
+    position: absolute;
+    left: 0;
+    top: -1px;
+}

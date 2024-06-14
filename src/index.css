@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#root{
+  position: relative;
+}
+.container{
+  height: 710px;
+  min-width: 334px;
+}
+div{
+ 
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+ 
+}
+label{
+  color: #676767;
+  font-size: 13px;
+ 
+}
+input{
+  border: none;
+  display: block;
+  border: 1px solid #FA641E;
+  border-radius: 15px;
+  padding: 1.1em;
+  width: 95%;
+  margin: 0 auto;
+  outline: 0;
+  font-size: 14px;
+  box-sizing: content-box;
+}
+a{
+  text-decoration: none;
+}
