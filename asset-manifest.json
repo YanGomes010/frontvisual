@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/frontvisual/static/css/main.af5028a0.css",
+    "main.js": "/frontvisual/static/js/main.46488d14.js",
+    "static/media/eye_hide.svg": "/frontvisual/static/media/eye_hide.022d0f115d4642106eae0f9f11b3206b.svg",
+    "static/media/eyeWhiteHide.svg": "/frontvisual/static/media/eyeWhiteHide.758d4d3d415e26fbb200b61d2b824edc.svg",
+    "static/media/home.svg": "/frontvisual/static/media/home.302626fce4c7a29038c9ff3e80532e5f.svg",
+    "static/media/eye_white.svg": "/frontvisual/static/media/eye_white.a4dcff0e7217daf164fa45fc801f09d7.svg",
+    "index.html": "/frontvisual/index.html",
+    "static/media/logo_googleg_48dp.svg": "/frontvisual/static/media/logo_googleg_48dp.71d9542edf51a249ec04.svg",
+    "static/media/motorbike.svg": "/frontvisual/static/media/motorbike.390f304dc51913202ac7fdc265395c5f.svg",
+    "static/media/QrCode.svg": "/frontvisual/static/media/QrCode.f5cd79ed32e54a8d86407f58b13c97ec.svg",
+    "static/media/report.svg": "/frontvisual/static/media/report.523c302e11c7f35accd3fb31dcf9c37e.svg",
+    "static/media/accept.svg": "/frontvisual/static/media/accept.2846a6f0bd1c8a76b17e0ac2e9d38d7d.svg",
+    "static/media/logo.svg": "/frontvisual/static/media/logo.f832fbad8d4442355ae881829a31695a.svg",
+    "static/media/profile.svg": "/frontvisual/static/media/profile.a17d1b96b4d4f0a908fb86ed41747dca.svg",
+    "static/media/eye.svg": "/frontvisual/static/media/eye.9cdfefa82df97a740ae06525db4d5c89.svg",
+    "static/media/arrow_back_black_24dp.svg": "/frontvisual/static/media/arrow_back_black_24dp.7ed25644254c6d3e951569d707da25d6.svg",
+    "static/media/close_black_24dp.svg": "/frontvisual/static/media/close_black_24dp.f27d989813a24dcb39f26603ae341c89.svg",
+    "main.af5028a0.css.map": "/frontvisual/static/css/main.af5028a0.css.map",
+    "main.46488d14.js.map": "/frontvisual/static/js/main.46488d14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af5028a0.css",
+    "static/js/main.46488d14.js"
+  ]
+}
